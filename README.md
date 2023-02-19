@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blvckodecy&label=Profile%20views&color=0e75b6&style=flat" alt="blvckodecy" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blvckodecy" alt="blvckodecy" /></a> </p>
 <p align="left"> <a href="https://twitter.com/blvckodecy" target="blank"><img src="https://img.shields.io/twitter/follow/blvckodecy?logo=twitter&style=for-the-badge" alt="blvckodecy" /></a> </p>
-- 🔭 I’m currently working on [dripodecy](www.dripodecy.com)
+- 🔭 I’m currently working on [dripodecy](www.dripodecy.com)\
+
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Blvckodecy?utm_source=linktree_profile_share&ltsid=cc82f1ea-b056-41c7-9952-50a6327eeb27](https://linktr.ee/Blvckodecy?utm_source=linktree_profile_share&ltsid=cc82f1ea-b056-41c7-9952-50a6327eeb27)
 
 - 💬 Ask me about **web development, application development**
