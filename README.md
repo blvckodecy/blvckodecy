@@ -1,4 +1,3 @@
-[![MasterHead] alt="Coding" width="400" (https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE3MGM2ZTEwMjRhMzdjOTVkOTA5ZjAxZDE0MjE0YzdhYjM1ZGQwNSZjdD1n/hKyACsiHzGAybvd8fX/giphy.gif)
 
 <h1 align="center">Hi 👋, i'm blvckodecy</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
